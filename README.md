@@ -7,13 +7,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Azure (Virtual Machines/Compute) `Used but not required for osTicket installation`
+- Remote Desktop `Used but not required for osTicket installation`
+
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2 - x64 Gen2)
+- Windows 10 (21H2 - x64 Gen2) `Azure Virtual Machine used`
 
 <h2>Post-Install Configuration Objectives</h2>
 
