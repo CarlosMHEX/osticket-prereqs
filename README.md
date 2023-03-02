@@ -87,7 +87,7 @@ And browsing to the PHP-CGI.exe in your PHP folder Or typing out C:\PHP\php-cgi.
 
 
 
-Restart your server by right-clicking on the IIS background shown below and afterwards install [osTicket](https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view)
+Restart your IIS server by right-clicking on the IIS background shown below and afterwards install [osTicket](https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view)
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc3M2NiOGQ5MzNlNmU2ZWRiZmFmOTdmZThkYjE3ZjJlMzhmNTZiNiZjdD1n/ULOyOxaeGG98WFJOmr/giphy.gif" height="45%" width="45%" alt="GIF 5"/>
 
@@ -95,8 +95,10 @@ after extracting the osTicket download, go to its directory and Rename the folde
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRiODZiZTFjOGNkNjc3Y2I0N2U3ZmVjYTg0MTc5ZGJjMWMxYzQxYiZjdD1n/b874EDA1bdFt2U34Ic/giphy.gif" height="45%" width="45%" alt="GIF 6"/>
 
-Go ahead and restart the server again for IIS to recognize osTicket
-<br />
+restart your IIS server again for IIS to recognize osTicket... Then click the side arrow before your localhost server name `(Localhost) -> Sites -> Default Web Site` and click on osTicket
+
+<img src="https://i.imgur.com/runqu5S.png" height="25%" width="25%" alt="Pic 9"/>
+
 
 
 
