@@ -64,7 +64,7 @@ You can then install [VC_redist](https://drive.google.com/file/d/1s1OsGF3-ioO0_9
 
 <img src="https://i.imgur.com/ieSuZKh.png" height="50%" width="50%" alt="Pic4"/>
 
-`Don't forget your user and password for MySQL! Your username will be "root" through a standard configuration`
+Type out a root password when asked and continue clicking Next and Execute to complete installation of SQL `Don't forget your user and password for MySQL! Your username will be "root" through a standard configuration`
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRlYTIwYmU5Zjc4NDdjNjE0ZTQxZTkwODJhMTM1ZjFhMTkzZWRkMCZjdD1n/65AMziKlbmqMUdzImI/giphy.gif" height="40%" width="40%" alt="GIF 4"/>
 <br />
@@ -145,5 +145,7 @@ Check all boxes or just full control like so.. And click Apply and Ok
 Back on your IIS window you should be able to open up the osTicket page through the osTicket tab and on the right side click "Browse *:80 (http)"
 
 <img src="https://i.imgur.com/1yp4vn7.png" height="20%" width="20%" alt="Pic 19"/> <img src="https://i.imgur.com/NBiIh7s.png" height="15%" width="15%" alt="Pic 20"/>
+
+If the website opened and osTicket shows then give yourself a pat on the back because you did it! What's left is to make the host account
 
 
