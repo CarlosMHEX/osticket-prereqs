@@ -16,7 +16,7 @@ I made this tutorial in a way that anyone who knows how to at least browse a com
 
 - Windows 10 (21H2 - x64 Gen2) `Azure Virtual Machine used`
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Objectives / Install Links</h2>
 
 - [Install PHP Manager for IIS](https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link)
 - [Install the Rewrite Module](https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link)
@@ -26,7 +26,7 @@ I made this tutorial in a way that anyone who knows how to at least browse a com
 - [Install osTicket](https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view)
 - [Install HeidiSQL](https://www.google.com/url?q=https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe&sa=D&source=docs&ust=1677798002760467&usg=AOvVaw0k32iD5cPIyqVFfWIgPCtJ)
 
-<h2>Configuration Steps</h2>
+<h2>The Step-By-Step Procedure</h2>
 
 <p>
 The first step would be to enable IIS through windows features.. Bring up your windows search bar by pressing the "win" button on your keyboard and typing in <b> Windows Features </b> and `clicking Turn Windows Features On Or Off`
