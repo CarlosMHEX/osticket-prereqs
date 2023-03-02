@@ -78,7 +78,7 @@ Then clicking
 - "Register new PHP Version"
 <img src="https://i.imgur.com/fWhi5wO.png" height="50%" width="50%" alt="Pic7"/>
 
-And browsing to the PHP-CGI.exe in your PHP folder to select as the PHP version for IIS.
+And browsing to the PHP-CGI.exe in your PHP folder Or typing out C:\PHP\php-cgi.exe to select as the PHP version for IIS...
 <img src="https://i.imgur.com/URJylZk.png" height="50%" width="50%" alt="Pic8"/>
 
 
