@@ -140,6 +140,6 @@ Type in "Everyone" and click Ok
 
 Check all boxes or just full control like so.. And click Apply and Ok
 
-<img src="https://i.imgur.com/5MpfLk9.png" height="25%" width="25%" alt="Pic 17"/>
+<img src="https://i.imgur.com/5MpfLk9.png" height="25%" width="25%" alt="Pic 17"/> <img src="https://i.imgur.com/8pO9Rac.png" height="25%" width="25%" alt="Pic 18"/>
 
 
