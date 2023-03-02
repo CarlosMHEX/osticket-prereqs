@@ -24,6 +24,7 @@ I made this tutorial in a way that anyone who knows how to at least browse a com
 - [Install VC_redist](https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link)
 - [Install MySQL](https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link)
 - [Install osTicket](https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view)
+- [Install HeidiSQL](https://www.google.com/url?q=https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe&sa=D&source=docs&ust=1677798002760467&usg=AOvVaw0k32iD5cPIyqVFfWIgPCtJ)
 
 <h2>Configuration Steps</h2>
 
@@ -146,6 +147,17 @@ Back on your IIS window you should be able to open up the osTicket page through 
 
 <img src="https://i.imgur.com/1yp4vn7.png" height="20%" width="20%" alt="Pic 19"/> <img src="https://i.imgur.com/NBiIh7s.png" height="15%" width="15%" alt="Pic 20"/>
 
-If the website opened and osTicket shows then give yourself a pat on the back because you did it! What's left is to make the host account
+If the website opened and osTicket shows then give yourself a pat on the back because you did it! What's left is to go through osTicket's basic installation which is just setting up the account information of the main user filled out like so.. Of course all the information you do put on here will be whatever you'd want it as
 
+<img src="https://i.imgur.com/Rio8Em6.png" height="80%" width="80%" alt="Pic 21"/>
 
+Now for the last section of that page is the database settings which we are not ready to tackle yet as we need to install [HeidiSQL](https://www.google.com/url?q=https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe&sa=D&source=docs&ust=1677798002760467&usg=AOvVaw0k32iD5cPIyqVFfWIgPCtJ) no need for pictures.. Just agree and next.. HeidiSQL should launch afterwards and we will focus on that
+<br />
+
+Now on HeidiSQL we will be clicking on "Add"
+
+<img src="https://i.imgur.com/IacxFuP.png" height="60%" width="60%" alt="Pic 22"/>
+
+You will be entering the password that you entered during the installation of SQL
+
+<img src="https://i.imgur.com/KJ8kBYc.png" height="40%" width="40%" alt="Pic 23"/> --> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzExN2QwZTcxM2FhODI0Y2M5ZDQ3NTY4YjEzYmZkYWU3Yjc0YWI1ZCZjdD1n/MPClPyHYxROp9EInYz/giphy.gif" height="50%" width="50%" alt="GIF 9"/>
