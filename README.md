@@ -93,7 +93,7 @@ Restart your IIS server by right-clicking on the IIS background shown below and 
 
 after extracting the osTicket download, go to its directory and Rename the folder `By clicking the file name once while highlighted` "upload" to "osTicket" and copy paste it to \wwwroot folder located in c:\inetpub\wwwroot
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRiODZiZTFjOGNkNjc3Y2I0N2U3ZmVjYTg0MTc5ZGJjMWMxYzQxYiZjdD1n/b874EDA1bdFt2U34Ic/giphy.gif" height="45%" width="45%" alt="GIF 6"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNhOWMwM2ExMDNjMTI4Y2E0YjliZGFmODdhN2MyNTYzNTZhYzY5ZiZjdD1n/kFmQkZVMwW630lgAFo/giphy.gif" height="45%" width="45%" alt="GIF 6"/>
 
 restart your IIS server again for IIS to recognize osTicket... Then click the side arrow before your localhost server name `(Localhost) -> Sites -> Default Web Site` and click on osTicket
 
