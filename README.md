@@ -68,12 +68,20 @@ You can then install [VC_redist](https://drive.google.com/file/d/1s1OsGF3-ioO0_9
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRlYTIwYmU5Zjc4NDdjNjE0ZTQxZTkwODJhMTM1ZjFhMTkzZWRkMCZjdD1n/65AMziKlbmqMUdzImI/giphy.gif" height="40%" width="40%" alt="GIF 4"/>
 <br />
 
-At this point we will use windows search to open up IIS shown above.
+At this point we will use windows search to open up IIS as administrator shown below...
+
+<img src="https://i.imgur.com/DkDed29.png" height="60%" width="60%" alt="Pic5"/>
+
 Then clicking
 - "PHP Manager"
+<img src="https://i.imgur.com/McBmbxJ.png" height="100%" width="100%" alt="Pic6"/>
 - "Register new PHP Version"
+<img src="https://i.imgur.com/fWhi5wO.png" height="60%" width="60%" alt="Pic7"/>
 
 And browsing to the PHP-CGI.exe in your PHP folder to select as the PHP version for IIS.
+<img src="https://i.imgur.com/URJylZk.png" height="60%" width="60%" alt="Pic8"/>
+
+
 
 Restart your server and install [osTicket](https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view)
 
