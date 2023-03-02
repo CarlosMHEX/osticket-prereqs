@@ -93,7 +93,7 @@ Restart your Localhost server by right-clicking on the IIS background shown belo
 
 after extracting the osTicket download, go to its directory and Rename the folder `By clicking the file name once while highlighted` "upload" to "osTicket" and copy paste it to \wwwroot folder located in c:\inetpub\wwwroot
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTkxYzYyNTYwMWMzZWIzM2U1NGY3NGFhMjM0MTk3N2NlZDFmZWUyYiZjdD1n/mIuflGmczNJe4jF2f7/giphy.gif" height="45%" width="45%" alt="GIF 6"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTkxYzYyNTYwMWMzZWIzM2U1NGY3NGFhMjM0MTk3N2NlZDFmZWUyYiZjdD1n/mIuflGmczNJe4jF2f7/giphy.gif" height="40%" width="40%" alt="GIF 6"/>
 
 restart your Localhost server again for IIS to recognize osTicket... Then click the side arrow before your localhost server name `(Localhost) -> Sites -> Default Web Site` and click on osTicket
 
@@ -114,3 +114,5 @@ And restart your Localhost server
 </p>
 
 Go into File Explorer and navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename <i>ost-sampleconfig.php</i> to <i>ost-config.php</i>
+
+<img src="https://media4.giphy.com/media/lM87DWJtQ6GxSLcqH6/giphy.gif" height="40%" width="40%" alt="GIF 7"/>
