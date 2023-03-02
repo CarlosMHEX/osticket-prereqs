@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
+<h1>osTicket - Step-By-Step installation </h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
@@ -73,12 +73,16 @@ At this point we will use windows search to open up IIS as administrator shown b
 <img src="https://i.imgur.com/DkDed29.png" height="60%" width="60%" alt="Pic5"/>
 
 Then clicking
-- "PHP Manager"
-<img src="https://i.imgur.com/McBmbxJ.png" height="100%" width="100%" alt="Pic6"/>
-- "Register new PHP Version"
+"PHP Manager"
+
+<img src="https://i.imgur.com/6G1fcfA.png" height="50%" width="50%" alt="Pic6"/>
+
+"Register new PHP Version"
+
 <img src="https://i.imgur.com/fWhi5wO.png" height="50%" width="50%" alt="Pic7"/>
 
 And browsing to the PHP-CGI.exe in your PHP folder Or typing out C:\PHP\php-cgi.exe to select as the PHP version for IIS...
+
 <img src="https://i.imgur.com/URJylZk.png" height="50%" width="50%" alt="Pic8"/>
 
 
