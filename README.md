@@ -87,7 +87,9 @@ And browsing to the PHP-CGI.exe in your PHP folder Or typing out C:\PHP\php-cgi.
 
 
 
-Restart your server and install [osTicket](https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view)
+Restart your server by right-clicking on the IIS background shown below and afterwards install [osTicket](https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view)
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc3M2NiOGQ5MzNlNmU2ZWRiZmFmOTdmZThkYjE3ZjJlMzhmNTZiNiZjdD1n/ULOyOxaeGG98WFJOmr/giphy.gif" height="45%" width="45%" alt="GIF 5"/>
 
 Rename the folder "upload" to "osTicket" and copy paste it to \wwwroot folder located in c:\inetpub\wwwroot
 <br />
