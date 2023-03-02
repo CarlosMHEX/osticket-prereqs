@@ -9,7 +9,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Microsoft Azure (Virtual Machines/Compute) `Used but not required for osTicket installation`
 - Remote Desktop `Used but not required for osTicket installation`
-
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
