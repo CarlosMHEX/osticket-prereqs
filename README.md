@@ -18,7 +18,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ## Post-Install Configuration Objectives <a id="Post-Install-Configuration-Objectives"></a>
 
-- [Install PHP Manager for IIS](https://www.iis.net/downloads/community/2018/05/php-manager-150-for-iis-10)
+- [Install PHP Manager for IIS](https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link)
 - [Install the Rewrite Module](https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link)
 - [Install PHP](https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link)
 - [Install VC_redist](https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link)
@@ -47,7 +47,7 @@ Once the computer has restarted completely you will now start installing the app
 </p>
 <br />
 
-Go ahead and install [PHP Manager for IIS](https://www.iis.net/downloads/community/2018/05/php-manager-150-for-iis-10) and the [Rewrite Module](https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link)
+Go ahead and install [PHP Manager for IIS](https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link) and the [Rewrite Module](https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link)
 <br />
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjk5YTA2N2JhZDVmZjkzNzI5MGRkMWQ2NWQ4NTg3NGI0NzdjM2ZkYSZjdD1n/DpnKHb9l7GvD2lsvkt/giphy.gif" height="40%" width="40%" alt="GIF 1"/> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI2ZjRiYmI1Nzc3MTVhODExMWE0OTY5ZTExYzNlOTM1MzUzZGE2MiZjdD1n/UuGRatqPStuyVClrsY/giphy.gif" height="40%" width="40%" alt="GIF 2"/>
@@ -91,7 +91,11 @@ Restart your server by right-clicking on the IIS background shown below and afte
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc3M2NiOGQ5MzNlNmU2ZWRiZmFmOTdmZThkYjE3ZjJlMzhmNTZiNiZjdD1n/ULOyOxaeGG98WFJOmr/giphy.gif" height="45%" width="45%" alt="GIF 5"/>
 
-Rename the folder "upload" to "osTicket" and copy paste it to \wwwroot folder located in c:\inetpub\wwwroot
+after extracting the osTicket download, go to its directory and Rename the folder `By clicking the file name once while highlighted` "upload" to "osTicket" and copy paste it to \wwwroot folder located in c:\inetpub\wwwroot
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRiODZiZTFjOGNkNjc3Y2I0N2U3ZmVjYTg0MTc5ZGJjMWMxYzQxYiZjdD1n/b874EDA1bdFt2U34Ic/giphy.gif" height="45%" width="45%" alt="GIF 6"/>
+
+Go ahead and restart the server again for IIS to recognize osTicket
 <br />
 
 
