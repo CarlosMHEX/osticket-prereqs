@@ -108,3 +108,9 @@ Enable:
 - php_intl.dll
 - php_opcache.dll
 <img src="https://i.imgur.com/oHNDI9D.png" height="40%" width="40%" alt="Pic 10"/>
+
+<p>
+And restart your osTicket server
+</p>
+
+Go into File Explorer and navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename <i>ost-sampleconfig.php</i> to <i>ost.config.php</i>
