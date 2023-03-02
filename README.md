@@ -115,4 +115,4 @@ And restart your Localhost server
 
 Go into File Explorer and navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename <i>ost-sampleconfig.php</i> to <i>ost-config.php</i>
 
-<img src="https://media4.giphy.com/media/lM87DWJtQ6GxSLcqH6/giphy.gif" height="40%" width="40%" alt="GIF 7"/>
+<img src="https://media4.giphy.com/media/lM87DWJtQ6GxSLcqH6/giphy.gif" height="35%" width="35%" alt="GIF 7"/>
