@@ -125,6 +125,8 @@ Navigate to the "Security" tab and click "Advanced"
 
 <img src="https://i.imgur.com/xHZDEBd.png" height="30%" width="30%" alt="Pic 13"/>
 
-And now you're going to disable all inheritance to this file and allow everyone permissions to it for the time being.
+And now you're going to disable all inheritance to this file and allow everyone permissions to it for the time being... At the end of the installation we will change it for security purposes.
 
-<img src="https://i.imgur.com/nFJCjsc.png" height="30%" width="30%" alt="Pic 14"/>
+<img src="https://i.imgur.com/nFJCjsc.png" height="60%" width="60%" alt="Pic 14"/> 
+
+
