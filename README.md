@@ -142,4 +142,8 @@ Check all boxes or just full control like so.. And click Apply and Ok
 
 <img src="https://i.imgur.com/5MpfLk9.png" height="25%" width="25%" alt="Pic 17"/> <img src="https://i.imgur.com/8pO9Rac.png" height="25%" width="25%" alt="Pic 18"/>
 
+Back on your IIS window you should be able to open up the osTicket page through the osTicket tab and on the right side click "Browse *:80 (http)"
+
+<img src="https://i.imgur.com/zSFymOm.png" height="25%" width="25%" alt="Pic 19"/>
+
 
