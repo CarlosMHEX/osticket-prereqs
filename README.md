@@ -120,3 +120,7 @@ Go into File Explorer and navigate to C:\inetpub\wwwroot\osTicket\include\ost-sa
 Now right-click the same file and go to "properties"
 
 <img src="https://i.imgur.com/tgD3Mtk.png" height="30%" width="30%" alt="Pic 12"/>
+
+Navigate to the "Security" tab and click "Advanced"
+
+<img src="https://i.imgur.com/xHZDEBd.png" height="30%" width="30%" alt="Pic 13"/>
