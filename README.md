@@ -103,6 +103,8 @@ in osTicket's PHP manager click on "Enable or Disable an Extension"
 
 <img src="https://i.imgur.com/ifYJeiI.png" height="40%" width="40%" alt="Pic 10"/>
 
-
-
-
+Enable:
+- php_imap.dll
+- php_intl.dll
+- php_opcache.dll
+<img src="https://i.imgur.com/oHNDI9D.png" height="40%" width="40%" alt="Pic 10"/>
