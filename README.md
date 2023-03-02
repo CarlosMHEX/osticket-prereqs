@@ -15,7 +15,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10 (21H2 - x64 Gen2) `Azure Virtual Machine used`
 
-## Post-Install Configuration Objectives <a id="Post-Install-Configuration-Objectives"></a>
+<h2>Post-Install Configuration Objectives</h2>
 
 - [Install PHP Manager for IIS](https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link)
 - [Install the Rewrite Module](https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link)
