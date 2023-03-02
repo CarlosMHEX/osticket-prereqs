@@ -76,10 +76,10 @@ Then clicking
 - "PHP Manager"
 <img src="https://i.imgur.com/McBmbxJ.png" height="100%" width="100%" alt="Pic6"/>
 - "Register new PHP Version"
-<img src="https://i.imgur.com/fWhi5wO.png" height="60%" width="60%" alt="Pic7"/>
+<img src="https://i.imgur.com/fWhi5wO.png" height="50%" width="50%" alt="Pic7"/>
 
 And browsing to the PHP-CGI.exe in your PHP folder to select as the PHP version for IIS.
-<img src="https://i.imgur.com/URJylZk.png" height="60%" width="60%" alt="Pic8"/>
+<img src="https://i.imgur.com/URJylZk.png" height="50%" width="50%" alt="Pic8"/>
 
 
 
