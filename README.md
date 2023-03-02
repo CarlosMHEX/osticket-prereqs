@@ -158,6 +158,17 @@ Now on HeidiSQL we will be clicking on "Add"
 
 <img src="https://i.imgur.com/IacxFuP.png" height="60%" width="60%" alt="Pic 22"/>
 
-You will be entering the password that you entered during the installation of SQL
+You will be entering the password that you entered during the installation of SQL and click open
 
 <img src="https://i.imgur.com/KJ8kBYc.png" height="40%" width="40%" alt="Pic 23"/> --> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzExN2QwZTcxM2FhODI0Y2M5ZDQ3NTY4YjEzYmZkYWU3Yjc0YWI1ZCZjdD1n/MPClPyHYxROp9EInYz/giphy.gif" height="50%" width="50%" alt="GIF 9"/>
+
+Right-click Unnamed and create a new database called "osTicket" and click refresh
+
+<img src="https://i.imgur.com/9uadSOt.png" height="40%" width="40%" alt="Pic 24"/> <img src="https://i.imgur.com/zEVJ9mP.png" height="30%" width="30%" alt="Pic 25"/> <img src="https://i.imgur.com/vM9YWu7.png" height="20%" width="20%" alt="Pic 26"/>
+
+You can now fill out the database portion in osTicket!  Database will be osTicket, Username will be root, and the password will be the same password as used previously
+
+<img src="https://i.imgur.com/hOKpnKU.png" height="50%" width="50%" alt="Pic 27"/>
+
+<b>Congratulations on the installation of osTicket!!!</b>
+
