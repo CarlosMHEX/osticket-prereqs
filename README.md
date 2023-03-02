@@ -113,4 +113,4 @@ Enable:
 And restart your Localhost server
 </p>
 
-Go into File Explorer and navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename <i>ost-sampleconfig.php</i> to <i>ost.config.php</i>
+Go into File Explorer and navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename <i>ost-sampleconfig.php</i> to <i>ost-config.php</i>
