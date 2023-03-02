@@ -125,8 +125,20 @@ Navigate to the "Security" tab and click "Advanced"
 
 <img src="https://i.imgur.com/xHZDEBd.png" height="30%" width="30%" alt="Pic 13"/>
 
-And now you're going to disable all inheritance to this file and allow everyone permissions to it for the time being... At the end of the installation we will change it for security purposes.
+And now you're going to disable all inheritance to this file and allow everyone permissions to it for the time being... At the end of the installation we will change it for security purposes
 
 <img src="https://i.imgur.com/nFJCjsc.png" height="60%" width="60%" alt="Pic 14"/> 
+
+Click "Add" and Select a principal
+
+<img src="https://i.imgur.com/j2XLJpi.png" height="25%" width="25%" alt="Pic 15"/> <img src="https://i.imgur.com/i9SF5Qa.png" height="25%" width="25%" alt="Pic 16"/>
+
+Type in "Everyone" and click Ok
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc0YzNlODJmN2ZjNjQ5NGI1NGJmYWI0M2QzMDJiMjI5NDQ5NmMxOSZjdD1n/tOsDP81CW87uewOcBl/giphy.gif" height="30%" width="30%" alt="GIF 8"/>
+
+Check all boxes or just full control like so..
+
+<img src="https://i.imgur.com/5MpfLk9.png" height="25%" width="25%" alt="Pic 17"/>
 
 
