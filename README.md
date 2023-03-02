@@ -3,7 +3,8 @@
 </p>
 
 <h1>osTicket - Step-By-Step installation </h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+I made this tutorial in a way that anyone who knows how to at least browse a computer can follow through.
+<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -137,7 +138,7 @@ Type in "Everyone" and click Ok
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc0YzNlODJmN2ZjNjQ5NGI1NGJmYWI0M2QzMDJiMjI5NDQ5NmMxOSZjdD1n/tOsDP81CW87uewOcBl/giphy.gif" height="30%" width="30%" alt="GIF 8"/>
 
-Check all boxes or just full control like so..
+Check all boxes or just full control like so.. And click Apply and Ok
 
 <img src="https://i.imgur.com/5MpfLk9.png" height="25%" width="25%" alt="Pic 17"/>
 
