@@ -99,6 +99,10 @@ restart your IIS server again for IIS to recognize osTicket... Then click the si
 
 <img src="https://i.imgur.com/runqu5S.png" height="25%" width="25%" alt="Pic 9"/>
 
+in osTicket's PHP manager click on "Enable or Disable an Extension"
+
+<img src="https://i.imgur.com/ifYJeiI.png" height="50%" width="50%" alt="Pic 10"/>
+
 
 
 
