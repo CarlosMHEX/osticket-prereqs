@@ -166,7 +166,7 @@ Right-click Unnamed and create a new database called "osTicket" and click refres
 
 <img src="https://i.imgur.com/9uadSOt.png" height="40%" width="40%" alt="Pic 24"/> <img src="https://i.imgur.com/zEVJ9mP.png" height="30%" width="30%" alt="Pic 25"/> <img src="https://i.imgur.com/vM9YWu7.png" height="20%" width="20%" alt="Pic 26"/>
 
-You can now fill out the database portion in osTicket!  Database will be osTicket, Username will be root, and the password will be the same password as used previously
+You can now fill out the database portion in osTicket!  Database will be osTicket, Username will be root, and the password will be the same password as used previously... Afterwards click "Install Now"
 
 <img src="https://i.imgur.com/hOKpnKU.png" height="50%" width="50%" alt="Pic 27"/>
 
